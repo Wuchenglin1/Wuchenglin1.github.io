@@ -8,13 +8,13 @@
       <link href="/2022/06/07/test-my-site/"/>
       <url>/2022/06/07/test-my-site/</url>
       
-        <content type="html"><![CDATA[<details class="note "><summary><p>[class] [no-icon] [summary]</p></summary>  <p>啦啦啦啦</p>  </details><p>这是一篇测试文章的啦~</p>]]></content>
+        <content type="html"><![CDATA[<details class="note "><summary><p>[class] [no-icon] [summary]</p></summary>  <p>啦啦啦啦</p>  </details><p>这是一篇测试文章的啦~</p><p>—————————–分割线—————————–</p><a class="theme-btn" href="#" title="我是一个title"><i class="fa fa-icon fas fa-airplay"></i>这是一个url</a><p>—————————–分割线—————————–</p><a class="theme-btn" href="#"><i class="fa fa-home fa-5x"></i></a> <a class="theme-btn" href="#"><i class="fa fa-home fa-4x"></i></a> <a class="theme-btn" href="#"><i class="fa fa-home fa-3x"></i></a> <a class="theme-btn" href="#"><i class="fa fa-home fa-2x"></i></a> <a class="theme-btn" href="#"><i class="fa fa-home fa-lg"></i></a> <a class="theme-btn" href="#"><i class="fa fa-home"></i></a>]]></content>
       
       
       
         <tags>
             
-            <tag> NEW!!! </tag>
+            <tag> daily_life lazy </tag>
             
         </tags>
       
